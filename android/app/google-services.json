@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "112454016306",
+    "firebase_url": "https://irigation-monitor-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "irigation-monitor-app",
+    "storage_bucket": "irigation-monitor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112454016306:android:1cd968c4458e54fa420b2b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCgLL5Rv-B1LduFIIGsDpUbUz6QdUIe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112454016306:android:68dcd34755a66c49420b2b",
+        "android_client_info": {
+          "package_name": "com.example.irigation_monitor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCgLL5Rv-B1LduFIIGsDpUbUz6QdUIe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

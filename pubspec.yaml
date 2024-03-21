@@ -1,0 +1,41 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  firebase_core: ^2.24.2
+  firebase_database: ^10.4.0
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  logger: ^2.0.2+1
+  permission_handler: ^11.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/icons/humidity.svg
+    - assets/icons/soilMoisture.svg
+    - assets/icons/thermometer.svg
+    - assets/icons/water-level.svg
+    - assets/icons/temperature-soil.svg
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Roboto-lightItalic.ttf
+          style: italic
